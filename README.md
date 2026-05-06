@@ -1,3 +1,128 @@
+# 👨‍💻 Personal Portfolio Website
+
+A modern and responsive personal portfolio website built to showcase personal projects, skills, achievements, and contact information professionally.
+
+---
+
+## 📌 Features
+
+- 🏠 Home page introduction
+- 👤 About section
+- 🛠️ Skills showcase
+- 📂 Project portfolio gallery
+- 📄 Resume / CV section
+- 📞 Contact form
+- 📱 Fully responsive design
+- 🌙 Modern UI design
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Framework / Library *(optional)*
+- Bootstrap
+- Tailwind CSS
+- React.js
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio-website/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   └── icons/
+│
+├── pages/
+├── index.html
+├── README.md
+└── ...
+```
+
+---
+
+## 🚀 Installation Guide
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/yourusername/portfolio-website.git
+```
+
+### 2. Open Project Folder
+
+```bash
+cd portfolio-website
+```
+
+### 3. Run the Project
+
+If using plain HTML/CSS/JS:
+Open `index.html` in your browser.
+
+If using React:
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+<img width="100%" alt="Home Page Screenshot" src="assets/images/home.png">
+
+### Portfolio Section
+<img width="100%" alt="Portfolio Screenshot" src="assets/images/portfolio.png">
+
+---
+
+## 🎯 Project Purpose
+
+This project was created to:
+
+- showcase personal projects and skills,
+- build a professional online presence,
+- and provide an easy way for recruiters or clients to learn more about the developer.
+
+---
+
+## 📈 Future Improvements
+
+Planned features for future updates:
+
+- 🌙 Dark mode
+- 🌐 Multi-language support
+- 📄 Download CV feature
+- ✨ More animations and interactions
+- 📱 Progressive Web App (PWA)
+
+---
+
+## 👨‍💻 Author
+
+**Reffki Andrea Pratama**
+
+GitHub: https://github.com/ReffkiAndreaPratama
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
